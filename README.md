@@ -1,5 +1,8 @@
 This project aims to enhance communication stability for remote workers. It monitors and analyzes network issues using AI-driven diagnostics, then provides clear, step-by-step guidance to users without technical expertise. The AI acts as a domain expert, handling complex technical analysis while enabling non-technical users to implement effective solutions easily.
 
+***Creators: @cyberbryanzhang, @dev-tomnorris, @fourold***
+***Questions? Email: cyberbryanzhang@gmail.com***
+
 Overview
 
 This project demonstrates a multi-agent AI system that monitors and diagnoses network performance in real time using NVIDIA Nemotron reasoning models.
